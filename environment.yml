@@ -1,0 +1,7 @@
+name: drought
+channels:
+  - conda-forge
+  - base
+  - R
+dependencies:
+  - r-base=4.2.1
